@@ -56,3 +56,12 @@ Business conclusions
 *Objective*
 ---
 The goal of this project is to demonstrate practical data analysis skills by combining EDA, visualization, web scraping, and statistical inference to solve a real-world transportation business problem.
+
+*Conclusions*
+---
+The analysis showed that weather conditions have a significant impact on taxi trip duration between downtown Chicago (Loop) and O’Hare International Airport.
+Trips on rainy days tend to take longer compared to trips on days with good weather, confirming that weather is an important factor affecting urban transportation efficiency.
+Through statistical hypothesis testing, it was possible to validate that this difference was not due to chance, but rather reflects a meaningful pattern in the data.
+These findings highlight how data analysis can be used to identify real-world transportation patterns and support better decision-making in mobility and logistic
+
+[Click here to see the Code](https://github.com/algiraldo92/Taxi_trips/blob/main/Analisis_cabs.ipynb).
